@@ -5,5 +5,4 @@ I am a full stack developer, with solid architecture and infrastructure attitude
 I constantly follow and experiment cloud, web, mobile and IoT trends to offer professional consulting. Project / team management abilities, I develop software by pushing the most widespread methodologies and practices (Kanban, Agile, Scrum, xP, DevOps, TDD, CI/CD, IaC, Cloud Native, Microservices).
 
 **Certifications** :notebook_with_decorative_cover:: 
-
 Azure DevOps Engineer Expert, Azure Developer Associate, Azure Fundamentals, Programming in C#, Microsoft Certified Trainer
