@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+Full stack developer, with solid architecture and infrastructure attitudes. I love clean and good code. I always care about performance and software engineering.
+
+I worked for small and big customers using different languages and technologies for Line of Business Application and Web front-end. I constantly follow and experiment cloud, web, mobile and IoT trends to offer professional consulting. Project / team management abilities, I develop software by pushing the most widespread methodologies and techniques (Kanban, Agile, Scrum, xP, DevOps, TDD, CI/CD, IaC, Cloud Native, Microservices).
 <!--
 **liguori/liguori** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
